@@ -12,12 +12,16 @@ d. Berapakah acknowledge number (raw) pada packet yang menunjukkan response dari
 
 **Cara Pengerjaan**
 1. Di soal dikatakan bahwa user menggunakan protokol FTP, maka lakukan filter menggunakan **ftp || ftp-data** untuk mencari data pada protokol FTP
-2. Karena user melakukan unggah file, maka cari kata kunci STOR. STOR merupakan perintah untuk meng-upload file ke FTP server
-3. Ditemukan sequence number (raw) dan acknowledge number (raw) pada aktivitas STOR (unggah file)
+<p align="center">
+<img src="https://github.com/dibazalfa/Jarkom-Modul-1-IT09-2023/assets/103043684/fd032604-c760-4bc9-b0ca-ba518f4f0aaf" height="300"/>
+</p>
+
+3. Karena user melakukan unggah file, maka cari kata kunci STOR. STOR merupakan perintah untuk meng-upload file ke FTP server
+4. Ditemukan sequence number (raw) dan acknowledge number (raw) pada aktivitas STOR (unggah file)
 ![Alt Text]()
-4. Kemudian, pindah ke paket response di bawahnya dan ditemukan sequence number (raw) dan acknowledgement number (raw) untuk responsenya
+5. Kemudian, pindah ke paket response di bawahnya dan ditemukan sequence number (raw) dan acknowledgement number (raw) untuk responsenya
 ![Alt Text]()
-5. Jawab di server nc kemudian dapatkan flagnya
+6. Jawab di server nc kemudian dapatkan flagnya
 ![Alt Text]()
 
 Flag : `Jarkom2023{y0u_r_g00d_4t_4dr3ssing_GnDxKwH33799943}`
