@@ -104,7 +104,7 @@ Berikan kueri filter sehingga wireshark hanya mengambil paket yang berasal dari 
 3. ip.src == 10.51.40.1 untuk memfilter paket ip source yang berasal dari alamat 10.51.40.1
 4. ip.dst != 10.39.55.34 untuk memfilter paket yang tidak menuju ke ip destinasi 10.39.55.34
 
-images/image20.png
+<img src="images/image20.png"/>
 Flag : `Jarkom2023{y3s_its_OjNjQgRjOkS_qu3ry1ng}`
 
 ## Soal 10 (Stream)
