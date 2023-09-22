@@ -1,5 +1,8 @@
-# Jarkom-Modul-1-IT09-2023
+# Jarkom-Modul-1-IT03-2023
 
+IT03
+1. Adiba Zalfa Camilla   5027211060
+2. Wiridlangit Suluh J.  5027211064
 
 ## Soal 1 (Addressing)
 
