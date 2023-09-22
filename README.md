@@ -13,7 +13,7 @@ d. Berapakah acknowledge number (raw) pada packet yang menunjukkan response dari
 **Cara Pengerjaan**
 1. Di soal dikatakan bahwa user menggunakan protokol FTP, maka lakukan filter menggunakan **ftp || ftp-data** untuk mencari data pada protokol FTP
 <p align="center">
-<img src="https://github.com/dibazalfa/Jarkom-Modul-1-IT09-2023/assets/103043684/fd032604-c760-4bc9-b0ca-ba518f4f0aaf" height="300"/>
+<img src="https://github.com/dibazalfa/Jarkom-Modul-1-IT09-2023/assets/103043684/fd032604-c760-4bc9-b0ca-ba518f4f0aaf"/>
 </p>
 
 3. Karena user melakukan unggah file, maka cari kata kunci STOR. STOR merupakan perintah untuk meng-upload file ke FTP server
