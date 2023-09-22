@@ -35,7 +35,8 @@ Sebutkan web server yang digunakan pada portal praktikum Jaringan Komputer!
 2. Klik kanan dan follow TCP Stream
 ![Alt Text]()
 3. Setelah terbuka, cari server yang ada
-![Alt Text]()
+![image](https://github.com/dibazalfa/Jarkom-Modul-1-IT09-2023/assets/103043684/b18e01bd-509e-4ab7-b8be-715178361949)
+
 
 Flag : `Jarkom2023{9unic0rn_1s_ztceT614q46DQ3N_c00l}`
 
