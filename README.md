@@ -99,15 +99,25 @@ Flag : `Jarkom2023{qu3ryyyyying_089399_DiQlRxPvDtD_15_fun}`
 Berikan kueri filter sehingga wireshark hanya mengambil paket yang berasal dari alamat 10.51.40.1 tetapi tidak menuju ke alamat 10.39.55.34
 
 **Cara Pengerjaan**
-1. 
+1. Buka terminal masukkan nc 10.21.78.111 7272
+2. Menggunakan filter ekspresi **ip.src == 10.51.40.1 && ip.dst != 10.39.55.34** kueri filter standar yang digunakan dalam Wireshark
+3. ip.src == 10.51.40.1 untuk memfilter paket ip source yang berasal dari alamat 10.51.40.1
+4. ip.dst != 10.39.55.34 untuk memfilter paket yang tidak menuju ke ip destinasi 10.39.55.34
 
-Flag : ``
+https://i.ibb.co/VJ1HQYK/image20.png
+Flag : `Jarkom2023{y3s_its_OjNjQgRjOkS_qu3ry1ng}`
 
 ## Soal 10 (Stream)
 
 Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet!
 
 **Cara Pengerjaan**
-1. 
+1. Upload file pcap wireshark yang diberikan
+2. Pada kolom filter tuliskan **telnet**
+3. Cari setiap paket sampai ditemukan kredensial yang benar
 
-Flag : ``
+https://i.ibb.co/2yWR3T6/image17.png
+
+https://i.ibb.co/vYvxgqF/image23.png
+
+Flag : `Jarkom2023{t3lnet_is_y5yA9ACyx89BCBy07_N0tSecu2e}`
