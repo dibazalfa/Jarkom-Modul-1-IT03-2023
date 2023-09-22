@@ -104,7 +104,7 @@ Berikan kueri filter sehingga wireshark hanya mengambil paket yang berasal dari 
 3. ip.src == 10.51.40.1 untuk memfilter paket ip source yang berasal dari alamat 10.51.40.1
 4. ip.dst != 10.39.55.34 untuk memfilter paket yang tidak menuju ke ip destinasi 10.39.55.34
 
-https://i.ibb.co/VJ1HQYK/image20.png
+images/image20.png
 Flag : `Jarkom2023{y3s_its_OjNjQgRjOkS_qu3ry1ng}`
 
 ## Soal 10 (Stream)
@@ -116,8 +116,8 @@ Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet!
 2. Pada kolom filter tuliskan **telnet**
 3. Cari setiap paket sampai ditemukan kredensial yang benar
 
-https://i.ibb.co/2yWR3T6/image17.png
+images/image17.png
 
-https://i.ibb.co/vYvxgqF/image23.png
+images/image23.png
 
 Flag : `Jarkom2023{t3lnet_is_y5yA9ACyx89BCBy07_N0tSecu2e}`
