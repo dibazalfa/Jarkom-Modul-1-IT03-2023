@@ -116,8 +116,8 @@ Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet!
 2. Pada kolom filter tuliskan **telnet**
 3. Cari setiap paket sampai ditemukan kredensial yang benar
 
-images/image17.png
+<img src="https://i.ibb.co/2yWR3T6/image17.png"/>
 
-images/image23.png
+<img src="https://i.ibb.co/vYvxgqF/image23.png"/>
 
 Flag : `Jarkom2023{t3lnet_is_y5yA9ACyx89BCBy07_N0tSecu2e}`
